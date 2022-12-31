@@ -1,0 +1,23 @@
+img{
+   width: 10%;
+
+}
+a{
+    margin-left: 2%;
+    margin-right: 2%;
+    color: black;
+    text-decoration: none;
+    margin-top: 0.5%;
+}
+nav{
+    display: flex;
+    margin-top: 1%;
+    margin-bottom: 1.5%;
+    margin-left: 6%;
+
+}
+div{
+    margin-right: 2%;
+    margin-top: 0.5%;
+}
+

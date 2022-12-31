@@ -1,0 +1,32 @@
+.foot{
+    margin-top: 10%;
+}
+.social >img{
+    width: 3%;
+    height: 3%;
+    margin-right: 1%;
+
+}
+button >.follow{
+   all: none;
+}
+.social{
+    display: flex;
+}
+.social >p{
+    margin-left: 7%;
+}
+.social >button{
+    all: unset;
+}
+.final_foot{
+    display: flex;
+    justify-content: center;
+    font-size: small;
+   margin-left: 6%;
+    background-color: #C8C8C8;
+    
+}
+ul{
+    list-style: none;
+}

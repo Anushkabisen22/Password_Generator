@@ -1,0 +1,17 @@
+.business{
+    margin-top: 10%;
+    margin-left: 7%;
+}
+.business >h2{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.business_temp{
+    display: flex;
+
+}
+.business_class > img {
+    width : 105%;
+}
+.business_class{
+    margin-right: 5%;
+}

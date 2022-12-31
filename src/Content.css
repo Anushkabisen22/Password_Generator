@@ -1,0 +1,59 @@
+.cont{
+    padding-top: 15%;
+}
+
+.pack1{
+    display: flex;
+    justify-content: center;
+    margin-right: 12%;
+    margin-left: 5%;
+    
+}
+.pack2{
+    display: flex;
+    justify-content: center;
+    margin-left: 2%;
+    
+}
+.pack2 > a{
+    text-decoration: underline;
+}
+.pack1 >img{
+    height: 40px;
+    width: 40px;
+    margin-left: 15%;
+}
+
+.features2{
+    display: flex;
+    margin-left: 1%;
+    
+}
+
+.template >img{
+    width: 100%;
+}
+.template{
+    margin-left: 5%;
+}
+.temp2 > img{
+    width: 112%;
+    
+}
+.temp3 >img{
+    width:111%;
+    
+}
+.template >h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+}
+.template > p{
+    font-weight: 300;;
+}
+.temp1 >img{
+    width: 112%
+}
+.temp4 >img{
+    width: 111%;
+}

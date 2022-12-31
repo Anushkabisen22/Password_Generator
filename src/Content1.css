@@ -1,0 +1,27 @@
+.cont1{
+    margin-top: 10%;
+    position: relative;
+}
+.cont1 >img{
+    width: 95%;
+    margin-left: 6%;
+    z-index: -1;
+    
+}
+.cont1 >h2{
+   margin-left: 9%;
+}
+.cont1 >p{
+   margin-left: 9%;
+}
+.cont101 >button {
+    margin-left: -0.5%;
+}
+.cont1 > p{
+    margin-top: -30%;
+    height: 200px;
+    width: 30%;
+    text-align: center;
+    position: absolute;
+    background-color: white;
+}

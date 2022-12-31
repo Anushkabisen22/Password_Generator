@@ -1,0 +1,26 @@
+.tabs{
+    width: 100%;
+    margin-left: 3%;
+    z-index: -1;
+   /* transform-origin: center; */
+}
+
+.content{
+    margin-top: -27%;
+    margin-left: 7%;
+}
+h3{
+    line-height: 0.4em;
+    font-weight: 100;
+}
+button{
+    background-color: black; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left:7% ;
+}
